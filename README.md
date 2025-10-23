@@ -585,9 +585,8 @@ class XAgentWrapper(BaseAgent):
 
 **Results**:
 - Seamless async/sync integration
-- 20% reduction in execution time
+- reduction in execution time
 - Better resource utilization
-- Proper cleanup of async resources
 
 ---
 
