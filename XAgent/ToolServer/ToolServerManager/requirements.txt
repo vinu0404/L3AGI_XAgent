@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+docker
+httpx
+PyYAML
+motor
+gunicorn
+beanie
+psutil
